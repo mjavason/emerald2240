@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orji Michael</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [TA Tech Store](https://github.com/Emerald2240/tats)
+- 🔭 I’m currently working on [TA Tech Store](https://github.com/Emerald2240/tats) an ecommerce store for electronics.
 
 - 🌱 I’m currently learning **C#**
 

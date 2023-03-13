@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Orji Michael</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [TA Tech Store](https://github.com/Emerald2240/tats) an ecommerce store for electronics.
+- 🔭 I’m currently working on the Genesys Learnable-22 Internship.
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [portfolio.techac.net](portfolio.techac.net)
+<!-- - 👨‍💻 All of my projects are available at [portfolio.techac.net](portfolio.techac.net) -->
 
 - 📝 I regularly write articles on [tatb.hashnode.dev](tatb.hashnode.dev)
 
@@ -13,7 +13,7 @@
 
 - 📫 You can mail me at: **Orjimichael4886@gmail.com**
 
-- 📄 Know about my experiences [http://portfolio.techac.net/assets/Michaels_CV.pdf](http://portfolio.techac.net/assets/Michaels_CV.pdf)
+<!-- - 📄 Know about my experiences [http://portfolio.techac.net/assets/Michaels_CV.pdf](http://portfolio.techac.net/assets/Michaels_CV.pdf) -->
 
 - ⚡ Fun fact **I love video games**
 
